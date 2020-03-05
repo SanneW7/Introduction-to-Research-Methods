@@ -1,1 +1,8 @@
+IRM Milestone 5
+This is assignment for school for the subject Introduction to Research Methods. The assignment is to find all occurrences of the word "de" in the Wikipedia webpage about the Rijksuniversiteit Groningen.
 
+Running the program
+The program script.sh is a shell script and needs to be called with ./script.sh in the terminal
+
+Author
+Sanne Weering
