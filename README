@@ -4,5 +4,8 @@ This is assignment for school for the subject Introduction to Research Methods. 
 Running the program
 The program script.sh is a shell script and needs to be called with ./script.sh in the terminal
 
+Results
+When script.sh is run 200 occurences of the word "de" are found in RUG.html.
+
 Author
 Sanne Weering
